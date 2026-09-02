@@ -18,11 +18,13 @@ const prompt = require('prompt-sync')();
 
 
 /*let n= Number(prompt("entre un nombre "));
- let resultat =0
+ let resultat =0;
 for (let i=1 ;i<=n ;i++ ){
-resultat = resultat+ i ;
+resultat = resultat + i; 
 }
 console .log(resultat);
 */
+
+
 
 
